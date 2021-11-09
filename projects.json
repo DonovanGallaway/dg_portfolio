@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Dune Trivia Game",
+      "live": "seir-penguin-project-1-sage.vercel.app",
+      "git": "https://github.com/DonovanGallaway/SEIR-Penguin-Project-1",
+      "image": "https://i.imgur.com/DX2f5dZ.png"
+    },
+    {
+      "name": "Penguin Comp",
+      "live": "https://penguin-comp.herokuapp.com/",
+      "git": "https://github.com/DonovanGallaway/Penguin_Comp",
+      "image": "https://imgur.com/ZRuWwVC.png"
+    }
+  ]
